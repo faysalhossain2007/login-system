@@ -1,6 +1,6 @@
 package com.faysal.login;
 
-import junalontherun.com.R;
+
 import android.app.Activity;
 import android.content.SharedPreferences;
 import android.os.Bundle;
